@@ -12,7 +12,7 @@ fastlane add_plugin update_app_associated_domains
 
 ## About update_app_associated_domains
 
-[iOS] Replace associated domains array for the key <com.apple.developer.associated-domains> in the entitlement file.
+[iOS] Replace associated domains array for the key <com.apple.developer.associated-domains` in the entitlement file.
 
 **Note to author:** Add a more detailed description about this plugin here. If your plugin contains multiple actions, make sure to mention them here.
 
