@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'nicolas@pepper.com'
 
   spec.summary       = '[iOS] Replace associated domains array for the key <com.apple.developer.associated-domains> in the entitlement file.'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-update_app_associated_domains"
+  spec.homepage      = "https://github.com/Nicolas/fastlane-plugin-update_app_associated_domains"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
